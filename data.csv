@@ -1,4 +1,4 @@
-time,temperature_celsius,wind_speed_mph,humidity_percentage,sunshine_intensity_minutes,electricity_consumption,day_of_week
+time,temperature_celsius,wind_speed_mph,humidity_percentage,sunshine_intensity_watts_per_m2,electricity_consumption_wh,day_of_week
 2024-01-01 00:00:00+0000,-6.408819270806494,1.2892650586854244,90.226491060121,-0.0,142.69846953232667,Monday
 2024-01-01 00:15:00+0000,-7.078842850963769,1.3043145396447118,92.6843833225132,-0.0,155.25852503074177,Monday
 2024-01-01 00:30:00+0000,-7.443468730518066,0.6194867643752666,90.91677812799325,-0.0,147.47612989614854,Monday
